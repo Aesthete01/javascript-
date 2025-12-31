@@ -40,3 +40,4 @@ console.log(num1)
 
 const icecreamprice = 100 
 icecreamprice  <= 70 ? console.log("less than 70") : console.log("more then 70 ")
+
