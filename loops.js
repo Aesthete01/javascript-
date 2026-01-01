@@ -72,3 +72,7 @@ let arr = 0
  } while (score <= 100 );
 
 
+//  const coding = ["js", "py", "cpp", "ruby"] 
+
+//  console.log(coding) 
+
